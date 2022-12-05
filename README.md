@@ -1,5 +1,6 @@
 # Dillinger
 ## _The Last Markdown Editor, Ever_
+# [링크 바로가기](https://github.com/testtestdev/testpublic/blob/main/README.md#installation)
 
 [![N|Solid](https://s.pstatic.net/static/www/mobile/edit/20221205/mobile_115034536403.gif)](https://naver.com)
 
